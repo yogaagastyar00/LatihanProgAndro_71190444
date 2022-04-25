@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/layout/fragment_message.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/layout/toolbar_default.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/Pertemuan8/app/src/main/res/menu/menu_default.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/layout/fragment_message.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/layout/toolbar_default.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Music/Pertemuan8_71190476/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1945" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable/ic_launcher_background.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable/outline_home_24.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable/outline_question_answer_24.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable/outline_settings_24.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/drawable/warnaback.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/font/alfa_slab_one.xml" value="0.39479166666666665" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/activity_main.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/fragment_home.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/fragment_message.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/fragment_settings.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/home.xml" value="0.33" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/pengaturan.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/pesan.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/toolbar_default.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/layout/toolsberanda.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/menu/iconmenu.xml" value="0.35625" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/menu/menu_default.xml" value="0.35625" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.312" />
+        <entry key="..\:/Users/Yoga Agastyar/AndroidStudioProjects/pertemuan8_71190444/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
