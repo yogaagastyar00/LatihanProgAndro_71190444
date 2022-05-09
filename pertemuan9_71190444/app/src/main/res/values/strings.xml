@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pertemuan9_71190444</string>
+    <string name="YGAPP">YGAPP</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="language">Pilih Bahasa</string>
+    <string name="ukuran_font">UkuranFont</string>
+    <string name="bahasa">Pilih Bahasa</string>
+    <string name="logout">Logout</string>
+</resources>

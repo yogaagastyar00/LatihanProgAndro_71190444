@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_bahasa">
+        <item>Default</item>
+        <item>Italia</item>
+        <item>German</item>
+        <item>Finlandia</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
