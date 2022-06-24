@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">71190444_final</string>
+
+    //Login
+    <string name="create_an_account"> Buat Akun</string>
+    <string name="email_adress">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_google">Masuk lewat Google</string>
+    <string name="already_have_an_account">Sudah punya Akun</string>
+</resources>
